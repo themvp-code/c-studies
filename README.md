@@ -1,25 +1,17 @@
-# c-studies
+# C Studies
 
-C programming exercises and activities from college.
+## 🇧🇷 Português
 
----
+Projetos e exercícios em linguagem C, organizados em uma pasta por atividade.
 
-## Activity 1 - Data Types, If/Else and Logic
+| Projeto | Conteúdo |
+|---|---|
+| [atividade-01](atividade-01) | Tipos de dados, if/else e lógica. Inclui o programa do sistema de ingressos de cinema. |
 
-### Q1 - Theory: Data types in C
-Explanation of the difference between `int`, `float` and `char` with real-world examples.
+## 🇺🇸 English
 
-### Q2 - Code: Cinema ticket system
-Program that asks the user's age and prints the correct ticket type:
-- Under 12 → Kids ticket
-- 12 to 17 → Half price
-- 18 or older → Full price
+Projects and exercises in C, organized in one folder per activity.
 
-### Q3 - Theory: scanf and printf
-Explanation of how `scanf` works after `printf` to read user input.
-
-### Q4 - Multiple choice: Program output analysis
-Analysis of a program with `if/else` checking if a student is Approved, Recovering or Failed.
-
-### Q5 - Multiple choice: if/else logic
-Analysis of a program checking if a person can drive based on age.
+| Project | Content |
+|---|---|
+| [atividade-01](atividade-01) | Data types, if/else and logic. Includes the cinema ticket system program. |
